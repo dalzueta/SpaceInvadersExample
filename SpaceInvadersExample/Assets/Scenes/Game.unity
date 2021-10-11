@@ -646,6 +646,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ship
       objectReference: {fileID: 0}
+    - target: {fileID: 4268408633113903263, guid: 0c5aa292552ab894e89e576e04179fee,
+        type: 3}
+      propertyPath: m_UsedByEffector
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4268408633113903263, guid: 0c5aa292552ab894e89e576e04179fee,
+        type: 3}
+      propertyPath: m_UsedByComposite
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4268408633113903329, guid: 0c5aa292552ab894e89e576e04179fee,
         type: 3}
       propertyPath: m_RootOrder
